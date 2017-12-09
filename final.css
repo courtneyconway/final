@@ -1,0 +1,55 @@
+img {
+	display: center;
+	width: 1350px; 
+	height: 870px;
+	padding-top: 30px;
+}
+
+header {
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+	
+}
+
+
+#myImage {
+	padding-left: 50px;
+	padding-bottom: 15px;
+
+}
+
+#myText {
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Raleway', sans-serif;
+}
+
+#myQuote {
+	padding-left: 280px;
+	padding-right: 180px;
+	font-family:'Raleway', sans-serif;
+	font-size: 25px;
+	font-style: italic;
+
+}
+
+#myPhoto {
+	padding-left: 300px;
+
+}
+
+div {
+  vertical-align: center;
+}
+
+b {
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+
+h3 {
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+}
