@@ -53,3 +53,9 @@ h3 {
 	text-align: center;
 	font-family: 'Libre Baskerville', serif;
 }
+
+@media screen and (max-width: 320px) {
+	body {
+		font-size: 100%
+	}
+}
